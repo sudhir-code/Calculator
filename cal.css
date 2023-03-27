@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.conatiner {
+    text-align: center;
+
+}
+
+.conatiner h1 {
+    margin: 30px;
+    text-align: center
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* margin-top: 40px; */
+    /* padding: 6px; */
+    /* width:50%; */
+}
+
+.button {
+    padding: 20px;
+    margin: 0px 4px;
+    width: 66px;
+    /* border: 2px solid; */
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.box {
+    margin: 8px 0px;
+}
+
+.box input {
+    padding: 10px 10px;
+    border-radius: 5px;
+    width: 291px;
+    font-size: 20px;
+    border: 2px solid black;
+    margin: 0;
+
+}
